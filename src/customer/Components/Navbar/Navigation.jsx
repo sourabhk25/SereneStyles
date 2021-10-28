@@ -265,7 +265,7 @@ export default function Navigation() {
                 <Link to="/">
                   <span className="sr-only">Your Company</span>
                   <img
-                    src="src/Data/ecommerce_logo2.png"
+                    src="https://res.cloudinary.com/dlrcoqg9b/image/upload/v1698458108/ecommerce_logo2_zkaamt.png"
                     alt="SereneStyles"
                     className="h-8 w-12 mr-2"
                   />

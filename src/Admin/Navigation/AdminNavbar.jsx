@@ -173,7 +173,7 @@ export default function AdminNavbar({handleSideBarViewInMobile}) {
           >
             <MenuIcon />
           </IconButton>}
-          <Avatar alt="SereneStyles" src="src/Data/ecommerce_logo2.png" />
+          <Avatar alt="SereneStyles" src="https://res.cloudinary.com/dlrcoqg9b/image/upload/v1698458108/ecommerce_logo2_zkaamt.png" />
           <Search>
             <SearchIconWrapper>
               <SearchIcon />
