@@ -1,7 +1,7 @@
 
 import axios from 'axios';
 // const LOCALHOST='http://localhost:5454'
-const LOCALHOST='http://serenestyles-server-production.up.railway.app'
+const LOCALHOST='https://serenestyles-server-production.up.railway.app'
 
 export const API_BASE_URL = LOCALHOST
 
